@@ -3,4 +3,4 @@
 
 Feel free to use it as a reference to create horizontal cards in TailwindCSS framework.
 
-You can see the live version in https://redes.ernestoflames.com
+You can see the live version in https://links.ernestoflames.com
